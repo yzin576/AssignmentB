@@ -12,5 +12,9 @@ public class MainActivity2 extends AppCompatActivity {
         //kukujiao xiao
         //sini kedondong
         //bobot ni
+        //asdasdasd
+        //asdasdasd
+        //adasdasdasd
+
     }
 }
