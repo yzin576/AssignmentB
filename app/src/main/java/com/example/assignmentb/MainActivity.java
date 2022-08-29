@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         //main kotek??
         //kai gong loh
+        //bird2 duo tiao
     }
 }
